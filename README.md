@@ -17,7 +17,7 @@ Computer Engineering student passionate about building software and solving algo
 Java | JavaScript | React | Node.js | Python
 
 ## Profiles
-LeetCode: [https://leetcode.com/yourusername](https://leetcode.com/u/Aishhxx/)
-Codeforces: [https://codeforces.com/profile/yourusername ](https://codeforces.com/profile/aishxcodes) 
-LinkedIn: [https://linkedin.com/in/yourusername](https://www.linkedin.com/in/aishwariya-dhar-347a2b271/)
+LeetCode: (https://leetcode.com/u/Aishhxx/)
+Codeforces: (https://codeforces.com/profile/aishxcodes) 
+LinkedIn: (https://www.linkedin.com/in/aishwariya-dhar-347a2b271/)
 
